@@ -1,0 +1,15 @@
+[user]
+	name = Sebastian Gottfried
+	email = sebastiangottfried@web.de
+[color]
+	ui = auto
+[pull]
+	rebase = true
+[push]
+	default = simple
+[url "git://anongit.kde.org/"]
+	insteadOf = kde:
+[url "git@git.kde.org:"]
+	pushInsteadOf = kde:
+[branch]
+	autosetuprebase = always
